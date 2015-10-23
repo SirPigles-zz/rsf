@@ -15,10 +15,11 @@
   ga('create', 'UA-67470665-1', 'auto');
   ga('send', 'pageview');
 
-</script>
-  <img src="/images/tf2-logo.jpg">
-  <p>TF2</p>
-  <img src="/images/csgo-logo.png"
-  <p>CS:Go</p>
+ </script>
+
+  <p> <a href="TF2.html"> <img src="/images/tf2-logo.jpg" /> </a> </p>
+  <p> <a href="CS:GO.html"> <img src="/images/csgo-logo.png" /> </a> </p>
+  
 </body>
+
 </html>
