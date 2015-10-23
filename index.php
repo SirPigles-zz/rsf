@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <head>
   <title>Raffle Smash Website</title>
@@ -7,3 +8,9 @@
   <p>CS:Go</p>
 </body>
 </html>
+=======
+<?php
+echo "ay fam";
+echo "Yo";
+?>
+>>>>>>> origin/master
