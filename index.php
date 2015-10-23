@@ -3,9 +3,10 @@
   <title>Welcome to Raffle Smash!</title>/* Suggestion
   <title>Raffle Smash Website</title>*/
   <script src="/jquery.js"></script>
+  <link href="/main.css" rel="stylesheet" type="text/css">
 </head>
 
-<body> 
+<body>
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -16,10 +17,10 @@
   ga('send', 'pageview');
 
  </script>
-
-  <p> <a href="TF2.html"> <img src="/images/tf2-logo.jpg" /> </a> </p>
-  <p> <a href="CS:GO.html"> <img src="/images/csgo-logo.png" /> </a> </p>
-  
+<div class="content">
+  <div class="tf2-logo"><p> <a href="TF2.html"> <img src="/images/tf2-logo.jpg" /> </a> </p></div>
+  <div class="csgo-logo"><p> <a href="CS:GO.html"> <img src="/images/csgo-logo.png" /> </a> </p></div>
+</div>
 </body>
 
 </html>

@@ -1,0 +1,22 @@
+.content {
+  display: block;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tf2-logo {
+  display: block;
+  width: 49%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.csgo-logo {
+  display: block;
+  width: 49%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
