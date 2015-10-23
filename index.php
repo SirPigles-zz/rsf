@@ -1,7 +1,10 @@
 <!doctype html>
 <head>
-  <title>Welcome to Raffle Smash!</title>/* Suggestion
-  <title>Raffle Smash Website</title>*/
+  <!-- meta tags -->
+  <meta charset="utf-8">
+  <meta name="author" content="STEAM_0:1:49818777, STEAM_0:1:52469054">
+  <!-- end meta -->
+  <title>Welcome to Raffle Smash!</title>
   <script src="/jquery.js"></script>
   <link href="/main.css" rel="stylesheet" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
@@ -18,10 +21,12 @@
   ga('send', 'pageview');
 
  </script>
+
 <div class="content">
   <div class="tf2-logo"><p> <a href="TF2.html"> <img src="/images/tf2-logo.jpg" /> </a> </p></div>
   <div class="csgo-logo"><p> <a href="CS:GO.html"> <img src="/images/csgo-logo.png" /> </a> </p></div>
 </div>
+
 </body>
 
 </html>
