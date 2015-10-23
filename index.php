@@ -14,7 +14,9 @@
   ga('send', 'pageview');
 
 </script>
+  <img src="/images/tf2-logo.jpg">
   <p>TF2</p>
+  <img src="/images/csgo-logo.png"
   <p>CS:Go</p>
 </body>
 </html>
