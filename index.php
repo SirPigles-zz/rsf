@@ -4,6 +4,7 @@
   <title>Raffle Smash Website</title>*/
   <script src="/jquery.js"></script>
   <link href="/main.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
