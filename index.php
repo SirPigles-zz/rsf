@@ -23,8 +23,8 @@
  </script>
 
 <div class="content">
-  <div class="tf2-logo"><p> <a href="TF2.html"> <img src="/images/tf2-logo.jpg" /> </a> </p></div>
-  <div class="csgo-logo"><p> <a href="CS:GO.html"> <img src="/images/csgo-logo.png" /> </a> </p></div>
+  <div class="tf2-logo"><p> <a href="TF2.html"> <img src="https://secure.sporkia-engine.com/rsf/test/images/tf2-logo.jpg" /> </a> </p></div>
+  <div class="csgo-logo"><p> <a href="CS:GO.html"> <img src="https://secure.sporkia-engine.com/rsf/test/images/csgo-logo.png" /> </a> </p></div>
 </div>
 
 </body>
