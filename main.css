@@ -28,3 +28,9 @@ p, h1, h2, h3, h4, h5, h6 {
 img {
   width: 100%;
 }
+
+body { 
+  background-image: url("http://i.imgur.com/4Dg74uH.png");
+  background-repeat: no-repeat;     
+  background-size: 100% auto;
+} 
